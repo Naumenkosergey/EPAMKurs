@@ -36,7 +36,6 @@ public class Task8 {
         writeArray(newArray);
     }
 
-
     private static void replase(int[] array, int[] newArray, int min) {
         int i = 0;
         for (int el : array) {
